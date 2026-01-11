@@ -1,0 +1,9 @@
+2026-01-11 16:02:14,500 - INFO - Starting SCD Type 2 PySpark Job. Log file: scd_type2_job_20260111_160214.log
+2026-01-11 16:02:19,938 - INFO - Spark session created
+2026-01-11 16:02:31,859 - INFO - Target table created with 6 records
+2026-01-11 16:02:39,121 - INFO - Source data loaded with 5 records
+2026-01-11 16:02:54,897 - INFO - Changed records count: 3
+2026-01-11 16:03:48,272 - INFO - Final dimension count: 10
+2026-01-11 16:03:48,272 - INFO - SCD Type 2 job completed successfully
+2026-01-11 16:03:49,221 - INFO - Spark session stopped
+2026-01-11 16:03:49,221 - INFO - Closing down clientserver connection
