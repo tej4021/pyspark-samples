@@ -1,7 +1,8 @@
 # PySpark ETL Project
 
-This repository contains PySpark scripts for ETL workflows, including Slowly Changing Dimension (SCD) Type 2 processing. This README provides setup instructions, environment setup, and guidelines for running the scripts.
-
+This repository contains PySpark scripts for ETL workflows for below. This README provides setup instructions, environment setup, and guidelines for running the scripts.
+1) Slowly Changing Dimension (SCD) Type 2 processing
+2) NoSql/Document data processing with spark
 ---
 
 ## 1. Environment Setup

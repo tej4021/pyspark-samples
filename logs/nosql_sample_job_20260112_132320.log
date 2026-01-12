@@ -1,0 +1,7 @@
+2026-01-12 13:23:20,400 - INFO - Starting SCD Type 2 PySpark Job. Log file: nosql_sample_job_20260112_132320.log
+2026-01-12 13:23:25,748 - INFO - Spark session created
+2026-01-12 13:23:33,037 - INFO - Source DataFrame created with 2 records
+2026-01-12 13:23:40,555 - INFO - Target Customer DataFrame created with 2 records
+2026-01-12 13:23:48,155 - INFO - Target Order DataFrame created with 2 records
+2026-01-12 13:23:55,687 - INFO - Target Order Item DataFrame created with 3 records
+2026-01-12 13:24:00,553 - INFO - Closing down clientserver connection
