@@ -22,7 +22,7 @@ logging.basicConfig(
 
 # Create logger
 logger = logging.getLogger(__name__)
-logger.info(f"Starting SCD Type 2 PySpark Job. Log file: {log_filename}")
+logger.info(f"Starting no sql/document type sample PySpark Job. Log file: {log_filename}")
 
 # ================= SPARK SESSION =================
 spark = SparkSession.builder \
