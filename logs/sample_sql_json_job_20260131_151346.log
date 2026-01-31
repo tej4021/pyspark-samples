@@ -1,0 +1,11 @@
+2026-01-31 15:13:46,775 - INFO - Starting JSON schema inspection job. Log file: sample_sql_json_job_20260131_151346.log
+2026-01-31 15:13:50,334 - INFO - Spark session created
+2026-01-31 15:13:50,337 - INFO - Reading Base64 JSON from: ./data/baby_names.json
+2026-01-31 15:13:50,548 - INFO - Base64 JSON loaded successfully.
+2026-01-31 15:13:50,548 - INFO - Number of records: 87899
+2026-01-31 15:13:52,251 - INFO - DataFrame created successfully.
+2026-01-31 15:14:02,498 - INFO - Total rows loaded: 87899
+2026-01-31 15:14:06,598 - INFO - finding most popular baby name for each year
+2026-01-31 15:14:13,367 - INFO - Query ran and you can see output in validation script.
+2026-01-31 15:14:14,350 - INFO - Spark session stopped
+2026-01-31 15:14:14,352 - INFO - Closing down clientserver connection

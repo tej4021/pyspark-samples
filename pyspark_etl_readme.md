@@ -3,6 +3,11 @@
 This repository contains PySpark scripts for ETL workflows for below. This README provides setup instructions, environment setup, and guidelines for running the scripts.
 1) Slowly Changing Dimension (SCD) Type 2 processing
 2) NoSql/Document data processing with spark
+3) tollCollectionSparkSql – A PySpark SQL example for analyzing toll collection data.
+4) jsonSampleExplodePySpark – A PySpark script to read Base64-encoded JSON, explode nested fields, and perform analysis using both DataFrame API and Spark SQL.
+	a) The jsonSampleExplodePySpark script requires a data/ folder in the project root.
+	b) Place your Base64-encoded JSON file (e.g., baby_names.json) inside data/.
+	c) Feel free to reach out if you need access to a sample JSON file.
 ---
 
 ## 1. Environment Setup
